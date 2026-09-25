@@ -12,6 +12,7 @@ A comprehensive company network model built using **Cisco Packet Tracer**, featu
   * ISR4331 (Router)
 * **Backend Part:** 3 Servers
 * **Guest Network:** Isolated wireless network with internet access only
+* {preview.png}
 
 ## Security & Access Control Policies
 * **Isolated Guest Network:** The guest Wi-Fi network is completely isolated from the internal corporate network for enhanced security.
