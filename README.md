@@ -24,4 +24,6 @@ Note:The Guest Network Password is 12345678
 1. Install **Cisco Packet Tracer** on your device.
 2. Sign in with your NetAcad/Cisco account.
 3. Download the `.pkt` file from this repository and open it to test the routing, connectivity, and security rules (ACLs/Permissions).
+
+## Preview
 ![preview](./preview.png)
